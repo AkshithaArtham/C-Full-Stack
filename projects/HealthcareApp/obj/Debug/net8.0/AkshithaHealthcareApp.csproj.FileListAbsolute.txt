@@ -1,0 +1,14 @@
+C:\AkshithaArtham projects\AkshithaHealthcareApp\bin\Debug\net8.0\AkshithaHealthcareApp.exe
+C:\AkshithaArtham projects\AkshithaHealthcareApp\bin\Debug\net8.0\AkshithaHealthcareApp.deps.json
+C:\AkshithaArtham projects\AkshithaHealthcareApp\bin\Debug\net8.0\AkshithaHealthcareApp.runtimeconfig.json
+C:\AkshithaArtham projects\AkshithaHealthcareApp\bin\Debug\net8.0\AkshithaHealthcareApp.dll
+C:\AkshithaArtham projects\AkshithaHealthcareApp\bin\Debug\net8.0\AkshithaHealthcareApp.pdb
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\AkshithaHealthcareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\AkshithaHealthcareApp.AssemblyInfoInputs.cache
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\AkshithaHealthcareApp.AssemblyInfo.cs
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\AkshithaHealthcareApp.csproj.CoreCompileInputs.cache
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\AkshithaHealthcareApp.dll
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\refint\AkshithaHealthcareApp.dll
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\AkshithaHealthcareApp.pdb
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\AkshithaHealthcareApp.genruntimeconfig.cache
+C:\AkshithaArtham projects\AkshithaHealthcareApp\obj\Debug\net8.0\ref\AkshithaHealthcareApp.dll
