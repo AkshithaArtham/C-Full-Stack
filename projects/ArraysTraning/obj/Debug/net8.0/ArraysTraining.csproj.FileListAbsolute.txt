@@ -1,0 +1,14 @@
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ArraysTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ArraysTraining.AssemblyInfoInputs.cache
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ArraysTraining.AssemblyInfo.cs
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ArraysTraining.csproj.CoreCompileInputs.cache
+C:\AkshithaArtham projects\ArraysTraining\bin\Debug\net8.0\ArraysTraining.exe
+C:\AkshithaArtham projects\ArraysTraining\bin\Debug\net8.0\ArraysTraining.deps.json
+C:\AkshithaArtham projects\ArraysTraining\bin\Debug\net8.0\ArraysTraining.runtimeconfig.json
+C:\AkshithaArtham projects\ArraysTraining\bin\Debug\net8.0\ArraysTraining.dll
+C:\AkshithaArtham projects\ArraysTraining\bin\Debug\net8.0\ArraysTraining.pdb
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ArraysTraining.dll
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\refint\ArraysTraining.dll
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ArraysTraining.pdb
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ArraysTraining.genruntimeconfig.cache
+C:\AkshithaArtham projects\ArraysTraining\obj\Debug\net8.0\ref\ArraysTraining.dll
