@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosisUndo", "DiagnosisUndo.csproj", "{B10EA458-402B-4E3B-8B3D-B1E00FCD035C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10EA458-402B-4E3B-8B3D-B1E00FCD035C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10EA458-402B-4E3B-8B3D-B1E00FCD035C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10EA458-402B-4E3B-8B3D-B1E00FCD035C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10EA458-402B-4E3B-8B3D-B1E00FCD035C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7870C6F5-221A-4A77-846E-2B067F3E5AD6}
+	EndGlobalSection
+EndGlobal

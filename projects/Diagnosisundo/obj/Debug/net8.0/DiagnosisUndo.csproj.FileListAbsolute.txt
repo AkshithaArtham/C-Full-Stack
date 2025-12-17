@@ -1,0 +1,14 @@
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\DiagnosisUndo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\DiagnosisUndo.AssemblyInfoInputs.cache
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\DiagnosisUndo.AssemblyInfo.cs
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\DiagnosisUndo.csproj.CoreCompileInputs.cache
+C:\AkshithaArtham projects\DiagnosisUndo\bin\Debug\net8.0\DiagnosisUndo.exe
+C:\AkshithaArtham projects\DiagnosisUndo\bin\Debug\net8.0\DiagnosisUndo.deps.json
+C:\AkshithaArtham projects\DiagnosisUndo\bin\Debug\net8.0\DiagnosisUndo.runtimeconfig.json
+C:\AkshithaArtham projects\DiagnosisUndo\bin\Debug\net8.0\DiagnosisUndo.dll
+C:\AkshithaArtham projects\DiagnosisUndo\bin\Debug\net8.0\DiagnosisUndo.pdb
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\DiagnosisUndo.dll
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\refint\DiagnosisUndo.dll
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\DiagnosisUndo.pdb
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\DiagnosisUndo.genruntimeconfig.cache
+C:\AkshithaArtham projects\DiagnosisUndo\obj\Debug\net8.0\ref\DiagnosisUndo.dll
